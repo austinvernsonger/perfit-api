@@ -1,0 +1,60 @@
+{
+    "name": "Perfit Labs",
+    "image": "http://perfit.co/logo.png",
+    "tags": [
+        "Perfit Labes",
+        " Hosting",
+        " Web Development"
+    ],
+    "url": "http://perfir.co/apis.json",
+    "created": "2016-08-15",
+    "modified": "2016-08-15",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Perfit_Fitness_Labs",
+            "description": "We do awesome things",
+            "image": "",
+            "humanURL": "http://developer.perfit.co",
+            "baseURL": "http://api.perfit.co",
+            "tags": [
+                "Perfit Labes",
+                " Hosting",
+                " Web Development"
+            ],
+            "properties": [
+                {
+                    "type": "X-registration",
+                    "url": "http://developer.perfit.co/registration/"
+                },
+                {
+                    "type": "X-documentation",
+                    "url": "http://developer.perfit.co/documentation/"
+                },
+                {
+                    "type": "Pricing",
+                    "url": "http://developer.perfit.co/pricing/"
+                },
+                {
+                    "type": "TermsOfService",
+                    "url": "http://developer.perfit.co/terms-of-service/"
+                },
+                {
+                    "type": "X-github",
+                    "url": "http://github.com/austinvernsonger/perfit-api"
+                }
+            ],
+            "contact": {
+                "FN": "Perfit_Fitness_Labs",
+                "X-twitter": "Perfit_Fitness_Labs",
+                "email": "Perfit_Fitness_Labs"
+            }
+        }
+    ],
+    "include": [],
+    "maintainers": {
+        "FN": "Perfit_Fitness_Labs",
+        "X-twitter": "Perfit_Fitness_Labs",
+        "email": "Perfit_Fitness_Labs"
+    }
+}
